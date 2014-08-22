@@ -1,6 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 ## This file contains two functions makeCacheMatrix and cacheSolve
+## Derived from makeVector example and illustration of makeVector in forum
 ## makeCacheMatrix creates functions to create the matrix, store and retrieve the inverse
 ## Write a short comment describing this function
 
